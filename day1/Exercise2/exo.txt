@@ -1,0 +1,7 @@
+1: ok
+2: ok (cf nat config.jpg)
+3: ok
+4: ok (cf connexion hr)
+5: ok (cf describe hr)
+6: ok (testé avec countries, cf ddl countries)
+7: diagramme: https://dbdiagram.io/d/6296219854ce263527331824
