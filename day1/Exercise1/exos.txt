@@ -1,0 +1,6 @@
+3: Oui il y a un ordre à respecter car certaines tables ont des clés étrangères donc il faut préalablement avoir créé les tables pour pouvoir utiliser ces clés
+CLI -> COM -> FOU -> PRO -> DET
+
+4: INSERT INTO "STINLOT"."CLI" (NUMCLI, NOMCLI, PAYS, TEL, VILLE, DEPT, NAT) VALUES ('11111111111111111111', 'TEST', 'France', '0629799262', 'Nantes', 'Loire atlantique', 'Francaise')
+
+5: Oui il y a un ordre, celui inverse de la création
